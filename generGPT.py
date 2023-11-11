@@ -17,9 +17,9 @@ CORS(app)
 # Define your database connection parameters
 db_config = {
     'host': 'localhost',
-    'user': 'root',
-    'password': 'password',
-    'db': 'laravel_auth',
+    'user': 'u203878552_gener',
+    'password': 'Generlnu2023!',
+    'db': 'u203878552_laravel_auth',
     'port': 3306
 }
 
